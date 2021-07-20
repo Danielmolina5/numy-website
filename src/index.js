@@ -25,6 +25,10 @@ import towHouse from './images/town-house.png'
 import homes from './images/homes.png'
 import land from './images/land.png'
 import waterfrontHomes from './images/waterfront-homes.png'
+import miamiBeach from './images/miami-beach.png'
+import miamiBeachIsland from './images/miami-beach-island.png'
+import miamiHomes from './images/miami-homes.png'
+import miamiBrickell from './images/miami-brickell.png'
 
 
 /*  CSS
