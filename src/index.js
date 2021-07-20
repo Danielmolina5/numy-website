@@ -29,6 +29,7 @@ import miamiBeach from './images/miami-beach.png'
 import miamiBeachIsland from './images/miami-beach-island.png'
 import miamiHomes from './images/miami-homes.png'
 import miamiBrickell from './images/miami-brickell.png'
+import market from  './images/market.png'
 
 
 /*  CSS
